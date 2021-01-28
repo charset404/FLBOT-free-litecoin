@@ -23,4 +23,4 @@ Simples, mas funcional script de auto aposta em free-litecoin
 * Vá até a paginá [Free-Litecoin](https://free-litecoin.com/login?referer=1243574).</br>
 * Registre-se ou faça login.
 * Com o script ativado, vá para paginá Multiply de free-litecoin, logo após desça toda a paginá e verá 2 botões inferior esquerdo, Start Bot & Stop Bot.</br>
-De start e Boa Sorte! (Good luck!).
+* De start e Boa Sorte! (Good luck!).
