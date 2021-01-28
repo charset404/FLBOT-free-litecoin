@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         FLBOT(free-litecoin) - Best and first bot for free-litecoin multiplier
-// @namespace    http://free-litecoin.net/
+// @namespace    http://free-litecoin.com/
 // @version      0.2
 // @description  [BETA] BETA VERSION OF FLBOT - AUTO MULTIPLY. INCREASE YOUR CHANCES!
 // @author       Charset404, BrunoB
-// @match        https://free-litecoin.com/multiply
+// @match        https://www.free-litecoin.com/multiply
 // @grant        none
 // ==/UserScript==
 
