@@ -1,6 +1,6 @@
 # FLBOT-free-litecoin.
-Simples, mas funcional script de auto aposta em free-litecoin
-
+Simples, mas funcional script de auto aposta em free-litecoin</br></br>
+![FLBOT interface](https://i.imgur.com/DdHcZ69.png)
 ## Requisitos.
 	Navegador compativel com Tampermonkey ou outro parecido que execute javascript na pagina(instale em seu navegador).
 	Script FLBOT-free-litecoin.
@@ -22,5 +22,5 @@ Simples, mas funcional script de auto aposta em free-litecoin
 * Primeiro configure nosso script(são 4 linhas configuraveis e devem ser verificadas antes de executar).
 * Vá até a paginá [Free-Litecoin](https://free-litecoin.com/login?referer=1243574).</br>
 * Registre-se ou faça login.
-* Com o script ativado, vá para paginá Multiply de free-litecoin, logo após desça toda a paginá e verá 2 botões inferior esquerdo, Start Bot & Stop Bot.</br>
+* Com o script ativado, vá para paginá Multiply de free-litecoin, logo após desça toda a paginá e verá a interface do script, com Start Bot & Stop Bot.</br>
 * De start e Boa Sorte! (Good luck!).
