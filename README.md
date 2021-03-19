@@ -1,7 +1,7 @@
 # FLBOT-free-litecoin.
 Simples, mas funcional script de auto aposta em free-litecoin</br></br>
-![FLBOT interface](https://i.imgur.com/SWEUjcWl.png?1)
-![FLBOT interface config](https://i.imgur.com/Q08Q9HHl.png?1)
+<img src="https://i.imgur.com/Q08Q9HHl.png?1" width="250">
+<img src="https://i.imgur.com/SWEUjcWl.png?1" width="250">
 ## Requisitos.
 	Navegador compativel com Tampermonkey ou outro parecido que execute javascript na pagina(instale em seu navegador).
 	Script FLBOT-free-litecoin.
