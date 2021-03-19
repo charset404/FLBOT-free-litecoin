@@ -15,13 +15,12 @@ Simples, mas funcional script de auto aposta em free-litecoin</br></br>
 * Maxthon: [Violentmonkey](http://extension.maxthon.com/detail/index.php?view_id=1680)
 * Dolphin: [Tampermonkey](https://play.google.com/store/apps/details?id=net.tampermonkey.dolphin)
 * UC: [Tampermonkey](https://www.tampermonkey.net/?browser=ucweb&ext=dhdg)
-* Baixe e instale a última versão atualizada de [FLBOT-free-litecoin](https://github.com/Charset404/FLBOT-free-litecoin/releases/tag/Beta.0.2).</br>
-* Vá para o painel de configuração de seu Tampermonkey ou similar e crie um novo script e cole nosso codigo, configure e salve.
+* Baixe e instale a última versão atualizada de [FLBOT-free-litecoin](https://github.com/Charset404/FLBOT-free-litecoin/releases/tag/v0.4-beta).</br>
+* Vá para o painel de configuração de seu Tampermonkey ou similar e crie um novo script, cole nosso codigo e salve.
 * Ou instale de modo automatico [clicando aqui](https://greasyfork.org/pt-BR/scripts/420828-flbot-free-litecoin-best-and-first-bot-for-free-litecoin-multiplier)
 	
 ## Como usar?(How to use?).
-* Primeiro configure nosso script(são 4 linhas configuraveis e devem ser verificadas antes de executar).
-* Vá até a paginá [Free-Litecoin](https://free-litecoin.com/login?referer=1243574).</br>
-* Registre-se ou faça login.
-* Com o script ativado, vá para paginá Multiply de free-litecoin, logo após desça toda a paginá e verá a interface do script, com Start Bot & Stop Bot.</br>
+* Vá até a paginá (go to) [Free-Litecoin](https://free-litecoin.com/login?referer=1243574).</br>
+* Registre-se ou faça login (log in or register).
+* Com o script ativado, vá para paginá Multiply de free-litecoin, logo após desça a paginá e verá a interface do script, com Start Bot & Stop Bot.</br>
 * De start e Boa Sorte! (Good luck!).
