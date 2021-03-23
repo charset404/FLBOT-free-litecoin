@@ -4,7 +4,7 @@ Simples, mas funcional script de auto aposta em free-litecoin (Simple but functi
 <img src="https://i.imgur.com/86WXA3q.png">
 
 
-## Requisitos(Requirements).
+## Requisitos (Requirements).
 * Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related?hl=pt-BR) ou [similar(Violentmonkey)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=pt-BR).</br>
 * Firefox: [Tampermonkey](https://addons.mozilla.org/pt-BR/firefox/addon/tampermonkey/), [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) ou [similar(Violentmonkey)](https://addons.mozilla.org/pt-BR/firefox/addon/violentmonkey/).</br>
 * Safari: [Tampermonkey](http://tampermonkey.net/?browser=safari) ou [Userscripts](https://apps.apple.com/app/userscripts/id1463298887)
@@ -14,11 +14,11 @@ Simples, mas funcional script de auto aposta em free-litecoin (Simple but functi
 * Dolphin: [Tampermonkey](https://play.google.com/store/apps/details?id=net.tampermonkey.dolphin)
 * UC: [Tampermonkey](https://www.tampermonkey.net/?browser=ucweb&ext=dhdg)
 
-## Como instalar(how to install).
-* Baixe e instale a última versão atualizada do [FLBOT-free-litecoin](https://github.com/Charset404/FLBOT-free-litecoin/releases/tag/v0.4-beta).</br>
-* Vá para o painel de configuração de seu Tampermonkey ou similar e crie um novo script, cole nosso codigo e salve. Ou instale de modo automatico [clicando aqui](https://greasyfork.org/pt-BR/scripts/420828-flbot-free-litecoin-best-and-first-bot-for-free-litecoin-multiplier)
+## Como instalar? (how to install?).
+* Baixe e instale a última versão atualizada do (Download and install the latest updated version of) [FLBOT-free-litecoin](https://github.com/Charset404/FLBOT-free-litecoin/releases/tag/v0.4-beta).</br>
+* Vá para o painel de configuração de seu Tampermonkey ou similar e crie um novo script, cole nosso codigo e salve. Ou instale de modo automatico (Go to the configuration panel of your Tampermonkey or similar and create a new script, paste our code and save. Or install it automatically) [Install](https://greasyfork.org/pt-BR/scripts/420828-flbot-free-litecoin-best-and-first-bot-for-free-litecoin-multiplier)
 	
-## Como usar?(How to use?).
+## Como usar? (How to use?).
 * Vá até a paginá (Go to the page) [Free-Litecoin](https://free-litecoin.com/login?referer=1243574).</br>
 * Registre-se ou faça login (Register or log in).
 * Com o script ativado, vá para paginá Multiply de free-litecoin, logo após desça a paginá e verá a interface do script. (With the script activated, go to the Multiply page of free-litecoin, then scroll down and you will see the script interface)</br>
