@@ -22,4 +22,13 @@ Simples, mas funcional script de auto aposta em free-litecoin (Simple but functi
 * Vá até a paginá (Go to the page) [Free-Litecoin](https://free-litecoin.com/login?referer=1243574).</br>
 * Registre-se ou faça login (Register or log in).
 * Com o script ativado, vá para paginá Multiply de free-litecoin, logo após desça a paginá e verá a interface do script. (With the script activated, go to the Multiply page of free-litecoin, then scroll down and you will see the script interface)</br>
-* Configure em Settings, feche no X, de start e Boa Sorte! (Configure in Settings, close the X to save, start and good luck!).
+
+* Configure em Settings, feche no X para salvar, de start e Boa Sorte! (Configure in Settings, close the X to save, start and good luck!).
+
+
+|   Settings | Values   | Description  |
+| ------------ | ------------ | ------------ |
+|  Bet?  |  0,00000001  |  Quantidade de LTC a ser apostado (Amount of LTC to bet) [ Format: 0,00000001 ]  |
+|  % Win/Loss?  |  50  |  Seta quantos % você tem de ganhar/perder (Arrow how many % you have to win/lose). [ Win chance 1 and 95 ]  |
+|  Low/High  |  0  |  0 = Jogar em Low; 1 = jogar em High. [ 0 = play Low ; 1 = play High. ]  |
+|  How Many Bets?  |  300  |  Seta o numero de jogadas. (Set the number of rolls)  |
